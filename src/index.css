@@ -79,6 +79,14 @@ header > p {
   justify-content: space-between;
 }
 
+.meme-form--container {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  height: 50%;
+}
+
 .meme-form > input {
   width: 45%;
   height: 40px;
